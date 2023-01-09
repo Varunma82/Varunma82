@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Varunma82
-- 👀 I’m interested in android development| Front-End development| Data Science
+- 👀 I’m interested in Android development| Front-End development| Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via maheshwarivarun82@gmail.com
