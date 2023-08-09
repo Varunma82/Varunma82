@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Varunma82
-- 👀 I’m interested in Android development| Front-End development| Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via maheshwarivarun82@gmail.com
-
-<!---
-Varunma82/Varunma82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+<a href="https://twitter.com/am_varun82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="am_varun82" height="30" width="40" /></a>   
+<a href="https://linkedin.com/in/varun-maheshwari-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varun-maheshwari-" height="30" width="40" /></a> 
+<a href="https://www.leetcode.com/varun_82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varun_82" height="30" width="40" /></a> 
+<a href="https://www.leetcode.com/varun_82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="varun_82" height="30" width="40" /></a> 
+<a href="https://auth.geeksforgeeks.org/user/maheshwarivarun82" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushhh231" height="30" width="40" /></a> 
+</p>
