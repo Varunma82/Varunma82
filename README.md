@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Stock Details Transfer(Stocker)**
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently learning **Java FullStack**
 
 - 👨‍💻 All of my projects are available at [varunma82](varunma82)
 
-- 💬 Ask me about **React.JS,Java,Kotlin**
+- 💬 Ask me about **React.JS,Nodejs,Java,Kotlin**
 
 - 📫 How to reach me **maheshwarivarun82@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1c9VcqTc7KQ3SXSrbEO9TYtGUH3VTwY7J/view?usp=drive_link](https://drive.google.com/file/d/1c9VcqTc7KQ3SXSrbEO9TYtGUH3VTwY7J/view?usp=drive_link)
 
-- ⚡ Fun fact **You cann't know me easily.**
+- ⚡ Fun fact **I am the fuckin loser.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
