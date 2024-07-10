@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Stock Details Transfer(Stocker)**
 
-- 🌱 I’m currently learning **Java FullStack**
+- 🌱 I’m currently learning **Java FullStack, QA Testing**
 
 - 👨‍💻 All of my projects are available at [varunma82](varunma82)
 
